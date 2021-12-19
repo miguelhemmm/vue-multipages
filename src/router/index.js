@@ -1,4 +1,6 @@
 import { createRouter, createWebHashHistory } from 'vue-router';
+import Vidanta from '../builds/vidanta/index.vue';
+import Aspire from '../builds/aspire/index.vue';
 import Home from '../views/Home.vue';
 
 const routes = [
@@ -6,6 +8,16 @@ const routes = [
     path: '/',
     name: 'Home',
     component: Home,
+  },
+  {
+    path: '/vidanta',
+    name: 'vidanta',
+    component: Vidanta,
+  },
+  {
+    path: '/aspire',
+    name: 'aspire',
+    component: Aspire,
   },
   {
     path: '/about',

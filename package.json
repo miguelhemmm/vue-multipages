@@ -40,7 +40,10 @@
     "parserOptions": {
       "parser": "babel-eslint"
     },
-    "rules": {}
+    "rules": {
+      "linebreak-style":"off",
+      "no-multiple-empty-lines":"off"
+    }
   },
   "browserslist": [
     "> 1%",
