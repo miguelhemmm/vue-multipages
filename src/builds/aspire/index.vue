@@ -1,4 +1,4 @@
 <template src="./aspire.html"></template>
 <script src="./aspire.js"></script>
-<style src="./aspire.scss" scoped lang="scss"></style>
+<style src="./aspire.scss" lang="scss"></style>
 

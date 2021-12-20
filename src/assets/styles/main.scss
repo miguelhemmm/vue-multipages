@@ -1,3 +1,10 @@
+$brand-primary: red;
+$brand-secondary: blue;
+
+
+
+
+
 #app {
     font-family: Avenir, Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -18,3 +25,8 @@
       }
     }
   }
+
+  h1,
+  h3 {
+    color: $brand-primary;
+}

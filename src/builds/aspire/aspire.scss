@@ -1,3 +1,11 @@
+@import '../../assets/styles/main.scss';
+
+$brand-primary: green;
+
+
 .aspire {
 
+    h1 {
+        color: $brand-primary;
+    }
 }
