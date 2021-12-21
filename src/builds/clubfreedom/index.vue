@@ -1,4 +1,4 @@
-<template src="./clubfreedom.html"></template>
-<script src="./clubfreedom.js"></script>
-<style src="./clubfreedom.scss" scoped lang="scss"></style>
+<template src="./clubFreedom.html"></template>
+<script src="./clubFreedom.js"></script>
+<style src="./clubFreedom.scss" scoped lang="scss"></style>
 

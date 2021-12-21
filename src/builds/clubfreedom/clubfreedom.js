@@ -1,22 +1,22 @@
 
 export default {
-  name: 'clubfreedom',
+  name: 'club-freedom',
   components: {},
   props: [],
   data () {
     return {
 
-    }
+    };
   },
   computed: {
 
   },
-  mounted () {
+  mounted() {
 
   },
   methods: {
 
-  }
+  },
 }
 
 
