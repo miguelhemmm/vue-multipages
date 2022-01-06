@@ -18,6 +18,16 @@ const routes = [
     component: () => import('../builds/aspire/index.vue'),
   },
   {
+    path: '/VCC',
+    name: 'vcc',
+    component: () => import('../builds/VCC/index.vue'),
+  },
+  {
+    path: '/examplePage',
+    name: 'examplePage',
+    component: () => import('../builds/example-page/index.vue'),
+  },
+  {
     path: '/about',
     name: 'About',
     // route level code-splitting

@@ -17,6 +17,16 @@ module.exports = {
       title: 'Aspire',
       chunks: ['chunk-vendors', 'chunk-common', 'aspire'],
     },
+    VCC: {
+      entry: './src/builds/VCC/main.js',
+      title: 'Aspire',
+      chunks: ['chunk-vendors', 'chunk-common', 'aspire'],
+    },
+    exampleBlock: {
+      entry: './src/builds/VCC/main.js',
+      title: 'Aspire',
+      chunks: ['chunk-vendors', 'chunk-common', 'aspire'],
+    },
     // Optional parameters for the pages
     // app2: {
     //   entry: 'src/app2/main.js',

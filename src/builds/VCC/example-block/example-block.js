@@ -1,9 +1,9 @@
 
 export default {
-  name: 'club-freedom',
+  name: 'example-block',
   components: {},
   props: [],
-  data () {
+  data() {
     return {
 
     };
@@ -17,6 +17,6 @@ export default {
   methods: {
 
   },
-}
+};
 
 
